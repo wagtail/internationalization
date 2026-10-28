@@ -44,8 +44,6 @@ View the [next internationalization meeting agenda](https://docs.google.com/docu
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-TODO
-
 ## References
 
 - [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n)

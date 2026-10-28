@@ -20,7 +20,7 @@ The team chose the name "internationalization" to reflect its broader focus on a
 
 View the [next internationalization meeting agenda](https://docs.google.com/document/d/1q6764N6tCqbKsKIE6YIjyB6WqL-SsHmfmQWiCJgJZxI/edit).
 
-### Team members
+## Team members
 
 <!-- Manually update to use joining dates instead of links. -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -43,6 +43,10 @@ View the [next internationalization meeting agenda](https://docs.google.com/docu
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Team documentation
+
+We use [wagtail/internationalization](https://github.com/wagtail/internationalization) in GitHub to store our team’s documentation which doesn’t fit in any of Wagtail’s existing documentation systems
 
 ## References
 

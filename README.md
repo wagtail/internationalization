@@ -34,6 +34,7 @@ View the [next internationalization meeting agenda](https://docs.google.com/docu
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/allcaps"><img src="https://avatars.githubusercontent.com/u/1969342?v=4?s=100" width="100px;" alt="Coen van der Kamp"/><br /><sub><b>Coen van der Kamp</b></sub></a></b></sub></a><br />Since October 2026</td>
       <td align="center" valign="top" width="14.28%"><a href="https://thib.me/"><img src="https://avatars.githubusercontent.com/u/877585?v=4?s=100" width="100px;" alt="Thibaud Colas"/><br /><sub><b>Thibaud Colas</b></sub></a><br /></b></sub></a><br />Since October 2026</td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Raghaddahi"><img src="https://avatars.githubusercontent.com/u/186389490?v=4?s=100" width="100px;" alt="Raghad Dahi "/><br /><sub><b>Raghad Dahi </b></sub></a><br />Since October 2026</td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Override4life"><img src="https://avatars.githubusercontent.com/u/187572257?v=4?s=100" width="100px;" alt="Bjorn"/><br /><sub><b>Bjorn</b></sub></a><br />Since October 2026</td>
     </tr>
   </tbody>
 </table>

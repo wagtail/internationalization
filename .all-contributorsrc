@@ -1,0 +1,61 @@
+{
+  "projectName": "internationalization",
+  "projectOwner": "wagtail",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "Stormheg",
+      "name": "Storm Heg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13856515?v=4",
+      "profile": "https://github.com/Stormheg",
+      "contributions": [
+        "plugin"
+      ]
+    },
+    {
+      "login": "rypptc",
+      "name": "herr_pilgrim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64696674?v=4",
+      "profile": "https://rypptc.github.io/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "allcaps",
+      "name": "Coen van der Kamp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1969342?v=4",
+      "profile": "https://github.com/allcaps",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "thibaudcolas",
+      "name": "Thibaud Colas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/877585?v=4",
+      "profile": "https://thib.me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Raghaddahi",
+      "name": "Raghad Dahi ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186389490?v=4",
+      "profile": "https://github.com/Raghaddahi",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
